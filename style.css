@@ -56,6 +56,11 @@ margin:0px;
    			text-shadow:3px 2px 2px orange,
    						3px 3px 2px blue;
    						margin-top: 1px;}
-    #center{text-align: center;}
+  //#center{text-align: center;}
+  .image{
+  	border-radius: 50%;
+  	display: inline;
+  }
+
     
 
