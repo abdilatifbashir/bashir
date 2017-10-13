@@ -8,3 +8,7 @@ body{background-color:white;}
 
 #para-home{text-align: cener;
 			font:bold 15px arial;}
+.image{
+	border-radius: 1%;
+}
+#moringa{margin:0px;}
