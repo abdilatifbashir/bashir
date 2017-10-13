@@ -3,4 +3,8 @@ body{background-color:white;}
 #head-color{background-color: #DAF7A6 ;
 			text-align: center;
 			color: #307bbd;
-			border-radius: 5px;}
+			border-radius: 5px;
+			font-size: 20px;}
+
+#para-home{text-align: cener;
+			font:bold 15px arial;}
