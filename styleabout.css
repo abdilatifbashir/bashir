@@ -1,3 +1,6 @@
 //body{background-image:url("images/Moringa.jpg");}
 body{background-color:white;}
-#head-color{background-color: #DAF7A6 ;}
+#head-color{background-color: #DAF7A6 ;
+			text-align: center;
+			color: #307bbd;
+			border-radius: 5px;}
