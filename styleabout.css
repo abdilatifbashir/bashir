@@ -13,6 +13,7 @@ body{background-color:white;}
 }
 #moringa{margin:0px;}
 .image{border-radius: 50%;
+
   	}
 
  #navbar{background-color: #DAF7A6 ;
@@ -45,3 +46,8 @@ body{background-color:white;}
 	//background: linear-gradient(to left,blue,red);
 		text-align:center;
 		font-style:italic;}
+
+.image2 {
+	border-radius: 50%;
+	margin-left: 60px;
+}
