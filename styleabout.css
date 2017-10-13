@@ -51,3 +51,32 @@ body{background-color:white;}
 	border-radius: 50%;
 	margin-left: 60px;
 }
+
+
+
+ #navbar-footer{background-color: #DAF7A6 ;
+		margin: 0px;
+		height:50px;
+		vertical-align: middle;
+		border-radius: 5px;}
+#navbar-footer ul{list-style-type: none;
+		text-align: center;
+		vertical-align: middle;
+		padding-top: 18px;}
+#navbar-footer ul li{display: inline;
+			vertical-align: middle;
+			}
+#navbar-footer ul li a{text-decoration: none;
+				font-size: 18px;
+					padding: 15px 15px 15px 15px;
+					background-color: white;
+					border-radius: 5px;
+					vertical-align: middle;
+					margin:9px;
+				}
+#navbar-footer ul li a:hover{background-color: black;
+					color:white;}
+
+
+
+
