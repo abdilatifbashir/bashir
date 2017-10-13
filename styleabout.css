@@ -12,3 +12,5 @@ body{background-color:white;}
 	border-radius: 1%;
 }
 #moringa{margin:0px;}
+.image{border-radius: 50%;
+  	display: inline;}
