@@ -14,3 +14,34 @@ body{background-color:white;}
 #moringa{margin:0px;}
 .image{border-radius: 50%;
   	display: inline;}
+
+ #navbar{background-color: #DAF7A6 ;
+		margin: 0px;
+		height: 70px;
+		vertical-align: middle;
+		border-radius: 5px;}
+#navbar ul{list-style-type: none;
+		text-align: center;
+		vertical-align: middle;
+		padding-top: 18px;}
+#navbar ul li{display: inline;
+			vertical-align: middle;
+			}
+#navbar ul li a{text-decoration: none;
+				font-size: 18px;
+					padding: 15px 15px 15px 15px;
+					background-color: white;
+					border-radius: 5px;
+					vertical-align: middle;
+					margin:9px;
+				}
+#navbar ul li a:hover{background-color: black;
+					color:white;}
+#marq{background-color: white;
+	height: 60px;
+	width:1280px;
+	margin: 0px;
+	font-size: 15px;
+	//background: linear-gradient(to left,blue,red);
+		text-align:center;
+		font-style:italic;}
