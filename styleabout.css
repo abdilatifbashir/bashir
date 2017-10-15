@@ -1,3 +1,4 @@
+	/*=============styling body of about page==============*/
 //body{background-image:url("images/Moringa.jpg");}
 body{background-color:white;}
 #head-color{background-color: #DAF7A6 ;
@@ -5,47 +6,17 @@ body{background-color:white;}
 			color: #307bbd;
 			border-radius: 5px;
 			font-size: 20px;}
-
-#para-home{text-align: cener;
+/*=============styling personal life section===========*/
+#para-personal{text-align: cener;
 			font:bold 15px arial;}
 #image{
 	border-radius: 1%;
 }
 #moringa{margin:0px;}
-.image{border-radius: 50%;
+//.image{border-radius: 50%;
 
   	}
-
- #navbar{background-color: #DAF7A6 ;
-		margin: 0px;
-		height: 70px;
-		vertical-align: middle;
-		border-radius: 5px;}
-#navbar ul{list-style-type: none;
-		text-align: center;
-		vertical-align: middle;
-		padding-top: 18px;}
-#navbar ul li{display: inline;
-			vertical-align: middle;
-			}
-#navbar ul li a{text-decoration: none;
-				font-size: 18px;
-					padding: 15px 15px 15px 15px;
-					background-color: white;
-					border-radius: 5px;
-					vertical-align: middle;
-					margin:9px;
-				}
-#navbar ul li a:hover{background-color: black;
-					color:white;}
-#marq{background-color: white;
-	height: 60px;
-	width:1280px;
-	margin: 0px;
-	font-size: 15px;
-	//background: linear-gradient(to left,blue,red);
-		text-align:center;
-		font-style:italic;}
+  /*=============syling round-inline-images========*/
 
 .image2 {
 	border-radius: 50%;
@@ -53,7 +24,7 @@ body{background-color:white;}
 }
 
 
-
+/*===========styling footer nav-bar of the about's page===========*/
  #navbar-footer{background-color: #DAF7A6 ;
 		margin: 0px;
 		height:50px;
