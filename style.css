@@ -17,7 +17,7 @@ margin:0px;
 			font:bold 15px helvetica;
 			padding-top: 15px;}
 	/*==============styling the navmenu section=========*/
-#navbar{background-color: orange;
+#navbar{background-color: #DAF7A6;
 		margin: 0px;
 		height: 70px;
 		vertical-align: middle;
@@ -59,7 +59,7 @@ margin:0px;
    			text-align: center;
    			color: orange;
    			vertical-align: middle;
-   			text-shadow:3px 2px 2px orange,
+   			text-shadow:3px 2px 2px #DAF7A6,
    						3px 3px 2px blue;
    						margin-top: 1px;}
   //#center{text-align: center;}
