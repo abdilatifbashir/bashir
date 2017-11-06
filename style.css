@@ -59,8 +59,8 @@ margin:0px;
    			text-align: center;
    			color: orange;
    			vertical-align: middle;
-   			text-shadow:3px 2px 2px #DAF7A6,
-   						3px 3px 2px blue;
+   			text-shadow:3px 2px 2px black;
+   						3px 3px 2px black;
    						margin-top: 1px;}
   //#center{text-align: center;}
   	/*=============styling images----round and inline--=======*/
